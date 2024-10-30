@@ -23,10 +23,10 @@ public class Usuario {
 
 
 
-        smartTv.ligar ();
+        smartTv.ligar();
         System.out.println("Novo Status -> TV ligada ? " + smartTv.ligada);
 
-        smartTv.desligar ();
+        smartTv.desligar();
         System.out.println("Novo Status -> TV ligada ? " + smartTv.ligada);
     }
 }
