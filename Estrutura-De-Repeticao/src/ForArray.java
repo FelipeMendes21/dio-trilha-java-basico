@@ -1,10 +1,4 @@
 public class ForArray {
-    public static void main(String[] args) {
-
-        String alunos[] = { "Felipe", "Julia", "Jonas", "Marcos" };
-        
-        for (String aluno : alunos) {
-            System.out.println("Nome do aluno é: " + aluno);
-        }
-    }
+    public static void main(String[] args) { for(int x=1;x<=10;x++){ if(x % 2==0)
+        System.out.println(x); } }
 }
